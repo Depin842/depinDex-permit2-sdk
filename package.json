@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/permit2-sdk",
-  "version": "1.2.0",
+  "name": "depin-dex-permit2-sdk",
+  "version": "1.0.0",
   "description": "An sdk for interacting with permit2.",
   "publishConfig": {
     "access": "public"
@@ -19,10 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/permit2-sdk.git"
+    "url": "https://github.com/Depin842/depinDex-permit2-sdk.git"
   },
   "keywords": [
-    "uniswap",
     "ethereum"
   ],
   "license": "MIT",
